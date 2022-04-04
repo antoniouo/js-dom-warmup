@@ -1,4 +1,4 @@
-**Нельзя менять index.html и index.css файлы**
+**Нельзя менять index.html и index.css файлы :warning: **
 
 1) По клику на кнопку Style, добавьте новую кнопку с `id="jsstyled"` и с текстом Styled со стилями:  
    `background-color: red;`  
