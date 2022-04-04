@@ -10,6 +10,8 @@
 9) setAttribute
 10) innerText, innerHTML, textContent
 
+*Изучите practise.html файл. Код пишите в practise.js файле*
+
 **Практика:**
 - Замените в ul > li строчки на числа. Например: ```<li class="first">one</li>``` на ```<li class="first">1</li>```.
 - Например:  
