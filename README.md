@@ -1,4 +1,4 @@
-### exercise1 и exercise2 и practise.js нужно сделать обязательно :) 
+### exercise1 и exercise2 и practise.js нужно сделать обязательно :slightly_smiling_face:
 
 **Изучите основные методы [DOM](https://www.dynamicwebtraining.com.au/blog/javascript-dom-methods):**
 1) getElementId, getElementsByClassName
