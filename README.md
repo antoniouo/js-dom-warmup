@@ -1,5 +1,7 @@
 ## :warning: exercise1, exercise2 и practise.js нужно сделать обязательно :warning:
 
+**Нельзя менять practise.html файл** :warning:  
+
 **Изучите основные методы [DOM](https://www.dynamicwebtraining.com.au/blog/javascript-dom-methods):**
 1) getElementId, getElementsByClassName
 2) getElementsByTagName
