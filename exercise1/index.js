@@ -2,5 +2,5 @@ let elem = document.querySelector('jsstyle')
 console.log(elem)
 
 elem.addEventListener('click', () => {
-  console.log('clicked click button')
+  console.log('clicked Style button')
 })
