@@ -1,7 +1,3 @@
-function jsStyle() {
-  // your code here
-}
-
 let elem = document.querySelector('jsstyle')
 console.log(elem)
 
