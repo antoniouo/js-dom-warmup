@@ -1,4 +1,4 @@
-### :warning: exercise1, exercise2 и practise.js нужно сделать обязательно :warning:
+## :warning: exercise1, exercise2 и practise.js нужно сделать обязательно :warning:
 
 **Изучите основные методы [DOM](https://www.dynamicwebtraining.com.au/blog/javascript-dom-methods):**
 1) getElementId, getElementsByClassName
