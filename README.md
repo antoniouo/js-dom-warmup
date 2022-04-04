@@ -15,7 +15,7 @@
 *Изучите practise.html файл. Код пишите в practise.js файле*
 
 **Практика:**
-- Замените в ul > li строчки на числа. Например: ```<li class="first">one</li>``` на ```<li class="first">1</li>```.
+- Замените в ul > li все строчки на числа. Например: ```<li class="first">one</li>``` на ```<li class="first">1</li>```.
 - Например:  
 `let ul = document.querySelector('ul')`;  
 `let one = ul.querySelector('.first')`;  
