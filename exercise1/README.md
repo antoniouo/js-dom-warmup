@@ -1,10 +1,17 @@
 **Нельзя менять index.html и index.css файлы**
 
-Напишите функцию **jsStyle** в файле **index.js**, которая по клику на кнопку Style поменяет:
-- размер шрифта кнопки на 14px
-- background color на белый
-- цвет текста на черный
+1) По клику на кнопку Style, добавьте новую кнопку с `id="jsstyled"` и с текстом Styled со стилями:  
+   `background-color: red;`  
+   `color: white;`  
+   `font-size: 20px;`  
+2) Поменяйте стили кнопки Style по клику на кнопку Styled на:
+   - размер шрифта кнопки на 14px
+   - цвет фона на белый
+   - цвет текста на черный
 
-1) Кнопку получить можно через ```querySelector('#jsstyle')```
-2) Поменять стили можно через объект style. Н-р: ```elem.style.color = "black"```
-3) Для клика можно испоьзовать ```addEventListener('click', () => {})```. Вместо callback функции можно передать функцию jsStyle
+    
+*В файле index.js*: 
+1) Кнопку получить можно через ```let btn = document.querySelector('#jsstyle')```
+2) Добавить новую кнопку в body можно через `document.body.appendChild(elem);`
+3) Поменять стили можно через объект style. Н-р: ```elem.style.color = "black"```
+4) Для клика можно испоьзовать ```btn.addEventListener('click', () => {})```.
