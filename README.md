@@ -1,3 +1,5 @@
+**exercise1 и exercise2 нужно сдлать обязательно**  
+
 **Изучите основные методы [DOM](https://www.dynamicwebtraining.com.au/blog/javascript-dom-methods):**
 1) getElementId, getElementsByClassName
 2) getElementsByTagName
