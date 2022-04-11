@@ -15,3 +15,4 @@
 2) Добавить новую кнопку в body можно через `document.body.appendChild(elem);`
 3) Поменять стили можно через объект style. Н-р: ```elem.style.color = "black"```
 4) Для клика можно испоьзовать ```btn.addEventListener('click', () => {})```.
+5) Кнопка Styled должна добавляться ТОЛЬКО после клика на кнопку Style
