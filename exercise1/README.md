@@ -13,6 +13,6 @@
 *В файле index.js*: 
 1) Кнопку получить можно через ```let btn = document.querySelector('#jsstyle')```
 2) Добавить новую кнопку в body можно через `document.body.appendChild(elem);`
-3) Поменять стили можно через объект style. Н-р: ```elem.style.color = "black"```
+3) Поменять стили можно через объект style. Н-р: ```elem.style.color = "black" (если в перем-ой -> elem.style[input1] = input2)```
 4) Для клика можно испоьзовать ```btn.addEventListener('click', () => {})```.
 5) Кнопка Styled должна добавляться ТОЛЬКО после клика на кнопку Style
