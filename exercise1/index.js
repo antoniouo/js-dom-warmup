@@ -1,4 +1,4 @@
-let elem = document.querySelector('jsstyle')
+let elem = document.querySelector('#jsstyle')
 console.log(elem)
 
 elem.addEventListener('click', () => {
